@@ -1,29 +1,29 @@
-## Hi there 
+##
+## Hi. 
 
-<!--My name is Tácio Santana, I'm 36 years old, and I'm passionate about programming.
+<!--I'm a programmer with a passion for technology!-->
 
-I currently work with industrial equipment programming (since 2008) and Front End Development.
+I've been programming since 2008, programming industrial equipment.
 
-I'm a developer with a passion for technology!
+I'm currently transitioning my career to web application development to be closer to my family.
+
 This is where I spend my time. And where imagination and creativity are transformed into code.
 
 Ask me anything via WhatsApp or email. I'll be happy to help.
 
-Below are my contacts:
+My contact information is below:
 <br>
 <br>
 <a href=mailto:taciosantana@outlook.com><img src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"/><a/>
 <br>
 <br>
 <a href="https://wa.me/5579999733167?"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+##
+## Olá, tudo bem?
 
--*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*- 
-<br>
-Me chamo Tácio Santana, tenho 36 anos e sou apaixonado por programação.
-
-Atualmente trabalho com programação de equipamentos industriais (desde 2008) e Front End Develop.-->
-
-Sou um desenvolvedor apaixonado por tecnologia!
+Sou um programador apaixonado por tecnologia! 
+Trabalho com programação desde 2008, programação de equipamentos industriais.
+Atualmente estou em trasição de carreira para desenvolvimento de aplicações web para ficar mais próximo de minha familia.
 Este é o espaço onde passo o meu tempo. E onde a imaginação e a criatividade se transformam em código.
 
 Pergunte me algo pelo whatsapp ou por email. Terei o maior prazer em lhe ajudar.
